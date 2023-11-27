@@ -1,0 +1,11 @@
+const banner = document.createElement('div');
+banner.style.backgroundColor = 'black';
+banner.style.color = 'red';
+banner.style.position = 'fixed';
+banner.style.top = 0;
+banner.style.left = 0; 
+banner.style.right = 0;
+banner.style.padding = '10px';
+banner.textContent = 'I Jerk Off To The 9/11 Towers';
+
+document.body.prepend(banner);
