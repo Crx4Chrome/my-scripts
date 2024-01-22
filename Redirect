@@ -1,0 +1,5 @@
+function openUrl() {
+  var url = 'https://sugma.mom/VAEO46';
+  Logger.log('Opening URL: ' + url);
+  UrlFetchApp.fetch(url);
+}
