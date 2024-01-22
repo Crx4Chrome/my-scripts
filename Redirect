@@ -1,5 +1,5 @@
-function openUrl() {
+function openURLMacro() {
   var url = 'https://sugma.mom/VAEO46';
-  Logger.log('Opening URL: ' + url);
-  UrlFetchApp.fetch(url);
+  Browser.msgBox('Opening URL...'); // Optional: show a message before opening the URL
+  Browser.openUrl(url);
 }
