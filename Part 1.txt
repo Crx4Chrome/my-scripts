@@ -1,5 +1,5 @@
 local whitelist = {
-    "elpRo17rebzrd",
+    "Donj1220",
     "Usuario2",
     "markitos2909701",
     "AGIRL_JENNIFE43",
